@@ -1,0 +1,17 @@
+{
+  "name": "kube",
+  "version": "3.0.1",
+  "main": "kube.css",
+  "authors": [
+    "imperavi"
+  ],
+  "license": "MIT",
+  "homepage": "http://imperavi.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
